@@ -1,0 +1,104 @@
+*{
+    font-family: Inter;
+}
+.card--container{
+    width: 300px;
+    background-color: #1A1B21;
+    color: white;
+}
+.image--container{
+    overflow: hidden;
+    height: 200px;
+}
+.info--image{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px 10px 0px 0px;
+}
+.texts--container{
+    padding: 0 10px;
+    overflow: hidden;
+}
+.info--name, .info--title, .info--website{
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+.info--name{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+.info--title{
+    color: #F3BF99;
+    font-size: 14px;
+}
+.info--website{
+    color: #F5F5F5;
+    font-size: 10px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.email--button, .linkedin--button{
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    border: none;
+    width: 100px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.email--button{
+    background-color: #FFFFFF;
+    color: #374151;
+}
+.email--text, .linkedin--text{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    text-decoration: none;
+}
+.email--text{
+    color: #374151;
+}
+.linkedin--text{
+    color: #FFFFFF;
+}
+.linkedin--button{
+    background-color: #5093E2;
+    color: white;
+}
+.linkedin--icon, .email--icon{
+    height: 15px;
+    margin: 0 5px;
+}
+.about, .interest{
+    padding: 5px;
+}
+.interest--content, .about--content{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10.24px;
+    color: #DCDCDC;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 0 10px;
+    color: #918E9B;
+}
+.footer--icon{
+    height: 25px;
+    margin: 10px;
+}
