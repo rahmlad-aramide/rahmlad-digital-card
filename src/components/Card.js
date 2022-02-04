@@ -18,7 +18,7 @@ function Card(){
                 <div className="info--texts">
                     <h3 className="info--name">Abdrahman Oladimeji</h3>
                     <h4 className="info--title">Frontend Developer</h4>
-                    <p className="info--website">rahmladwebsite.com</p>
+                    {/* <p className="info--website">rahmladwebsite.com</p> */}
                 </div>
                 <div className="buttons">
                     <button className="email--button">
