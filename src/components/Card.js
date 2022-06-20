@@ -42,7 +42,7 @@ function Card(){
                 </div>
             </div>
             <div className="footer">
-                <a href="https://twitter.com/AbdrahmanAdeba1">
+                <a href="https://twitter.com/Dev_Rahmlad">
                     <img src={ Twitter } alt="Twitter Icon" className="footer--icon" href='https://github.com/rahmlad-aramide'/>
                 </a>
                 <a href="https://web.facebook.com/abdrahman.oladimeji.aramide">
