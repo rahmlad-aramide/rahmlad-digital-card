@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rahmlad-digital-card/static/css/main.170564e9.css",
-    "main.js": "/rahmlad-digital-card/static/js/main.bc6da3c6.js",
+    "main.js": "/rahmlad-digital-card/static/js/main.ffbbff32.js",
     "static/media/hero.jpg": "/rahmlad-digital-card/static/media/hero.de5a813f52c2b00417cd.jpg",
     "static/media/linkedin.png": "/rahmlad-digital-card/static/media/linkedin.311fc69e888c68190877.png",
     "static/media/email.png": "/rahmlad-digital-card/static/media/email.f76a8b749f29362ee64e.png",
     "index.html": "/rahmlad-digital-card/index.html",
     "main.170564e9.css.map": "/rahmlad-digital-card/static/css/main.170564e9.css.map",
-    "main.bc6da3c6.js.map": "/rahmlad-digital-card/static/js/main.bc6da3c6.js.map"
+    "main.ffbbff32.js.map": "/rahmlad-digital-card/static/js/main.ffbbff32.js.map"
   },
   "entrypoints": [
     "static/css/main.170564e9.css",
-    "static/js/main.bc6da3c6.js"
+    "static/js/main.ffbbff32.js"
   ]
 }
